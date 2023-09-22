@@ -28,7 +28,7 @@ pip install cx-Freeze
 2. Navegue até o diretório do projeto.
 3. Execute o arquivo `main.py` utilizando o Python.
 ```bash
-python main.py
+main.py
 ```
 
 ## Contribuições
