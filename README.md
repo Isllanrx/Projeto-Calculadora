@@ -19,8 +19,8 @@ pip python install
 ```bash
 pip install cx-Freeze 
 ```
-1. Utilizei o "cx-Freeze" para conversão .py em um build.
-2. O arquivo Setup.py deixou a build nativa em .exe sem precisar ter o python instalado
+1. Utilizei o "cx-Freeze" para conversão .py em uma build.
+2. O arquivo Setup.py deixou a build nativa em .exe, não mostrando mais o terminal de fundo. 
 
 ## Como executar:
 
