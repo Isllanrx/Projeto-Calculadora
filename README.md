@@ -26,9 +26,9 @@ pip install cx-Freeze
 
 1. Clone este repositório para o seu sistema local.
 2. Navegue até o diretório do projeto.
-3. Execute o arquivo `main.py` utilizando o Python.
+3. Execute o arquivo `main.py` utilizando o terminal Python.
 ```bash
-main.py
+python main.py
 ```
 
 ## Contribuições
